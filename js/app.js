@@ -4,6 +4,11 @@ const projects = [
     githubLink: "https://github.com/BehruzAzamov/Password",
     vercelLink: "https://dazzling-alpaca-13dbc2.netlify.app/",
   },
+  {
+    title: "Todos",
+    githubLink: "https://github.com/BehruzAzamov/Todos",
+    vercelLink: "https://todos-six-amber.vercel.app/",
+  }
 ];
 
 const template = document.querySelector("template");
