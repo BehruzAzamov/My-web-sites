@@ -8,7 +8,12 @@ const projects = [
     title: "Todos",
     githubLink: "https://github.com/BehruzAzamov/Todos",
     vercelLink: "https://todos-six-amber.vercel.app/",
-  }
+  },
+  {
+    title: "Todo in React",
+    githubLink: "https://github.com/BehruzAzamov/Todos-react",
+    vercelLink: "https://todos-react-drab.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
