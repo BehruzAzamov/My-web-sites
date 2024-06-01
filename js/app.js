@@ -14,6 +14,11 @@ const projects = [
     githubLink: "https://github.com/BehruzAzamov/Todos-react",
     vercelLink: "https://todos-react-drab.vercel.app/",
   },
+  {
+    title:"Quizzes App",
+    githubLink:"https://github.com/BehruzAzamov/Quizzes",
+    vercelLink:"https://quizzes-seven.vercel.app/",
+  }
 ];
 
 const template = document.querySelector("template");
