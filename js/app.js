@@ -24,6 +24,11 @@ const projects = [
     githubLink:"https://github.com/BehruzAzamov/Devjobs",
     vercelLink:"https://devjobs-woad.vercel.app/",
   },
+  {
+    title:"Prepaer to exam",
+    githubLink:"https://github.com/BehruzAzamov/Prepare-to-exam",
+    vercelLink:"https://prepare-to-exam.vercel.app/login",
+  },
 ];
 
 const template = document.querySelector("template");
