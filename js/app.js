@@ -29,6 +29,16 @@ const projects = [
     githubLink:"https://github.com/BehruzAzamov/Prepare-to-exam",
     vercelLink:"https://prepare-to-exam.vercel.app/login",
   },
+  {
+    title:"Exam7 1",
+    githubLink:"https://github.com/BehruzAzamov/Exam7-1",
+    vercelLink:"https://exam7-1.vercel.app/",
+  },
+  {
+    title:"Exam7 2",
+    githubLink:"https://github.com/BehruzAzamov/Exam7-2",
+    vercelLink:"https://exam7-2.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
