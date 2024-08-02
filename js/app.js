@@ -39,6 +39,11 @@ const projects = [
     githubLink:"https://github.com/BehruzAzamov/Exam7-2",
     vercelLink:"https://exam7-2.vercel.app/",
   },
+  {
+    title:"Quiz App",
+    githubLink:"https://github.com/BehruzAzamov/Frontend-quizzes-app",
+    vercelLink:"https://frontend-quizzes-app.vercel.app/"
+  }
 ];
 
 const template = document.querySelector("template");
