@@ -43,6 +43,11 @@ const projects = [
     title:"Quiz App",
     githubLink:"https://github.com/BehruzAzamov/Frontend-quizzes-app",
     vercelLink:"https://frontend-quizzes-app.vercel.app/"
+  },
+  {
+    title:"Tip Calc",
+    githubLink:"https://github.com/BehruzAzamov/Tip-calculatoor",
+    vercelLink:"https://tip-calculatoor-aeiz3kdsd-behruzazamovs-projects.vercel.app/"
   }
 ];
 
