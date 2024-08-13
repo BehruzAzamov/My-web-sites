@@ -48,6 +48,11 @@ const projects = [
     title:"Tip Calc",
     githubLink:"https://github.com/BehruzAzamov/Tip-calculatoor",
     vercelLink:"https://tip-calculatoor-aeiz3kdsd-behruzazamovs-projects.vercel.app/"
+  },
+  {
+    title:"Multi step form",
+    githubLink:"https://github.com/BehruzAzamov/JS",
+    vercelLink:"https://js-ten-omega.vercel.app/"
   }
 ];
 
