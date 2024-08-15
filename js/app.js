@@ -53,6 +53,10 @@ const projects = [
     title:"Multi step form",
     githubLink:"https://github.com/BehruzAzamov/JS",
     vercelLink:"https://js-ten-omega.vercel.app/"
+  },
+  {
+    title:"Store ",
+    githubLink:"https://github.com/BehruzAzamov/Store",
   }
 ];
 
