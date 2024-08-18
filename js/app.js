@@ -55,8 +55,9 @@ const projects = [
     vercelLink:"https://js-ten-omega.vercel.app/"
   },
   {
-    title:"Store ",
-    githubLink:"https://github.com/BehruzAzamov/Store",
+    title:"Store in JS",
+    githubLink:"https://github.com/BehruzAzamov/Sore-js",
+    vercelLink:"https:/js-store-ab.vercel.app/"
   }
 ];
 
