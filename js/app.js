@@ -57,7 +57,7 @@ const projects = [
   {
     title:"Store in JS",
     githubLink:"https://github.com/BehruzAzamov/Sore-js",
-    vercelLink:"https:/js-store-abz.vercel.app/"
+    vercelLink:"https://magazin-self.vercel.app/login"
   }
 ];
 
